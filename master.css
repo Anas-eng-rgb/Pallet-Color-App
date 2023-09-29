@@ -1,0 +1,13 @@
+.box {
+    width: 80px;
+    height: 80px;
+    border: 1px solid #1783d0; 
+    position: relative;
+    right: -90%;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.show__border {
+    border: 2px solid black;
+}
